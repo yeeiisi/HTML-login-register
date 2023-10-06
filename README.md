@@ -1,2 +1,2 @@
 # HTML-login-register
-login and refister web (HTML, CSS, JS)
+login and register web (HTML, CSS, JS)
